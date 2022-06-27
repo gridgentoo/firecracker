@@ -1,3 +1,7 @@
+Оригинальный репозитарий.   
+https://github.com/firecracker-microvm/firecracker.   
+
+
 ![Firecracker Logo Title](docs/images/fc_logo_full_transparent-bg.png)
 
 Our mission is to enable secure, multi-tenant, minimal-overhead execution of
